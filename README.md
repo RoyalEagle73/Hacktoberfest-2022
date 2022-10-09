@@ -5,6 +5,9 @@ A repository for hacktoberfest 2022.
 
 [Assignment-1](https://docs.google.com/document/d/1xPcP4Vr6dR4ajf-Ckk43ivCRLO9TunMdzOzjZcBbQ4g/edit?usp=sharing)
 
+[Assignment-2](https://docs.google.com/document/d/1fGpSr-1TVc6yLpso6Dq1CMRsH45vCo7o1WsJ950CDvM/edit?usp=sharing)
+
+
 More to come...
 
 ## Steps
