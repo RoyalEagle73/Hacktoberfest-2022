@@ -3,7 +3,7 @@ A repository for hacktoberfest 2022.
 
 ## Assignments
 
-[Assignment-1](https://docs.google.com/document/d/1DOT0KnJH0oXouE9aQqGkbOyLOcWoitQ2idCwAlfRPic/edit?usp=sharing)
+[Assignment-1](https://docs.google.com/document/d/1xPcP4Vr6dR4ajf-Ckk43ivCRLO9TunMdzOzjZcBbQ4g/edit?usp=sharing)
 
 More to come...
 
