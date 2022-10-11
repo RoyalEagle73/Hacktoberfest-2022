@@ -1,7 +1,7 @@
 (defn prime_factorization [num] 
   (loop [index 2
          result []
-         number num] (if (> index (Math/sqrt num))
+         number num] (if (> index number)
                        result
                        (recur (if (= (mod number index) 0) index (inc index)) (if (= (mod number index) 0) (merge result index) result)
                               (if (= (mod number index) 0) (int (/ number index)) number)))))
