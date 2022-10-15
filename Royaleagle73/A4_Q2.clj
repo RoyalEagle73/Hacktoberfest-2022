@@ -22,8 +22,8 @@
                                                                                                  (str (int (/ (+ (* 10 carry) (digit result index)) 2)))
                                                                                                  (subs result (+ 1 index))))))))))
 
-(defn main [] (do (def n "128")
-                  (is-power-of-two? "36893488147419103232") ; 2^65 = 36893488147419103232
+(defn main [] (do (def n "36893488147419103232") ; 2^65 = 36893488147419103232
+                  (is-power-of-two? n) 
                   ))
 
 (main)
